@@ -1,0 +1,89 @@
+{
+  "name": "BNW Wallet Verified Token List",
+  "timestamp": 16789012345,
+  "description": "This is the official token list for BNW Wallet, containing verified tokens on Binance Smart Chain (BSC) and Ethereum (ETH).",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": ["BNW", "BSC", "ETH", "verified", "token-list"],
+  "tags": {
+    "verified": {
+      "name": "Verified",
+      "description": "Token verified by the BNW team"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0000000000000000000000000000000000000003",
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "tags": ["verified"],
+      "type": "COIN"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0000000000000000000000000000000000000002",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png",
+      "tags": ["verified"],
+      "type": "COIN"
+    },
+    {
+      "chainId": 714,
+      "address": "0x0000000000000000000000000000000000000001",
+      "name": "BNW",
+      "symbol": "BNW",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bnw-logo.png",
+      "tags": ["verified"],
+      "type": "COIN"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+      "tags": ["verified"],
+      "type": "ERC20"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+      "tags": ["verified"],
+      "type": "BEP20"
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+      "tags": ["verified"],
+      "type": "ERC20"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+      "tags": ["verified"],
+      "type": "BEP20"
+    }
+  ]
+}
