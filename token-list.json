@@ -18,7 +18,7 @@
     {
       "chainId": 1,
       "address": "0x0000000000000000000000000000000000000003",
-      "name": "ETH Token",
+      "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
