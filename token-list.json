@@ -21,27 +21,27 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
       "tags": ["verified"],
       "type": "COIN"
     },
     {
       "chainId": 56,
       "address": "0x0000000000000000000000000000000000000002",
-      "name": "BNB",
+      "name": "Binance Coin",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/bnw-labs/bnw-wallet-tokens/main/networks/bnw/bnw.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
       "tags": ["verified"],
       "type": "COIN"
     },
     {
       "chainId": 714,
       "address": "0x0000000000000000000000000000000000000001",
-      "name": "BNW",
+      "name": "BlockchainNW",
       "symbol": "BNW",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bnw-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/bnw-labs/bnw-wallet-tokens/main/networks/bnw/bnw.png",
       "tags": ["verified"],
       "type": "COIN"
     },
@@ -51,7 +51,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "tags": ["verified"],
       "type": "ERC20"
     },
@@ -61,7 +61,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
       "tags": ["verified"],
       "type": "BEP20"
     },
@@ -71,7 +71,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "tags": ["verified"],
       "type": "ERC20"
     },
@@ -81,7 +81,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png",
       "tags": ["verified"],
       "type": "BEP20"
     }
