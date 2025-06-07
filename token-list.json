@@ -31,7 +31,7 @@
       "name": "BNB",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/bnw-labs/bnw-wallet-tokens/main/networks/bnw/bnw.png",
       "tags": ["verified"],
       "type": "COIN"
     },
